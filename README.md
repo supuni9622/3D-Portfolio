@@ -17,3 +17,11 @@ Currently, two official plugins are available:
 
 Then `npm install`
 Then `npm run dev`
+
+### How to install and use Tailwind css?
+
+`npm install -D tailwindcss postcss autoprefixer`
+Then `npx tailwindcss init -p`
+Then configurations for the tailwind.config.js file and postcss.config.js file. Refer [Vite and Tailwind css guide](https://tailwindcss.com/docs/guides/vite)
+
+https://youtu.be/FkowOdMjvYo?t=818
